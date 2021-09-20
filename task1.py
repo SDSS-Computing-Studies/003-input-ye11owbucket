@@ -11,3 +11,8 @@ Inputs:
 Sample output:
  Your name is Joe Lunchbox, and your email is joe@koolsandwiches.org.
 """
+
+
+x = input("what is your name? ")
+y = input("what is your email address? ")
+print("your name is " + x + "," + " your email address is " + y + "." )
