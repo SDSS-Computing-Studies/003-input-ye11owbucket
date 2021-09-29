@@ -13,6 +13,6 @@ Sample output:
 """
 
 
-x = input("what is your name? ")
-y = input("what is your email address? ")
+x = input("what is your name? ").strip()
+y = input("what is your email address? ").strip()
 print("your name is " + x + "," + " your email address is " + y + "." )
