@@ -15,4 +15,4 @@ Sample output:
 
 x = input("what is your name? ").strip()
 y = input("what is your email address? ").strip()
-print("Your name is " + x + "," + " and your email address is " + y + "." )
+print("Your name is " + x + "," + " and your email is " + y + "." )
